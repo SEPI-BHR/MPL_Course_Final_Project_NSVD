@@ -61,7 +61,7 @@ The goals of this project are as following:
 
     |  | Caption_train| Question_train| Question_test|
     |----------|----------|----------|----------| 
-    | Result   |75.80%   | 51.72%  | 11.%  | 
+    | Result   |75.80%   | 51.72%  | 11.91%  | 
 
 #### EXP2: This part includes creating the unified version that creates the caption and question programs in one generator.
 
