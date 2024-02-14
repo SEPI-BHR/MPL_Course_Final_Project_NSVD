@@ -25,14 +25,14 @@ The goals of this project are as following:
 
 
 ## Data Preprocessing
-- The python files for preprocessing and notebooks of the creating small dataset can be found in the following folder:
+- The python files for preprocessing and notebook of the creating small dataset can be found in the following folder:
 `NSVD-MPL-PRJ/0_preprocess_dialogs`
 - The dataset used in this project is called CLEVER Dialog, using this dataset we create our own dataset.
 
 
 ### Note.
  Since the volume of data is too big in this part we also created a smaller dataset from our preprocessed one, making the training and testing procedure faster.
- - Also it is important to mention that small dataset have 375000 data which takes too long to run in kaggle. Therefore, we sliced it to be 75000.
+ - Also it is important to mention that small test dataset have 375000 data which takes too long to run in kaggle. Therefore, we sliced it to be 75000.
 
 - The following you can find original and small dataset voulmes:
 
