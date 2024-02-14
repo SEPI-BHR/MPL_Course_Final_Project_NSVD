@@ -10,9 +10,9 @@ Course project of Machine Perception and Learning class, Winter 2023/24 at Unive
 
 ## Introduction
 
-This project is about Neuro-Symbolic Visual Dialog
-(NSVD)1 —the first method to combine
-deep learning and symbolic program execution for multi-round visually-grounded reasoning. 
+The insparation for Visual dialog comes from the human-human communication[NSVD paper]([URL](https://aclanthology.org/2022.coling-1.17.pdf))
+. In human language, a few questions and several rounds of responses can be used to reason about a visual scene. One of the obstacles that models must overcome is creating a link between pronouns like "that" and "it" to the appropriate objects in the scene. Current models encounter different challenges namely,  insufficient training data, poor explainability, and generalization .  A dynamic knowledge base  as well as program generators are main aspects of Neuro-Symbolic Visual Dialog (NSVD) in order to tackling these issues.
+
 The goals of this project are as following:
 - Making the original code run (debug and add some parts)
 - Making the executor run.
@@ -25,14 +25,14 @@ The goals of this project are as following:
 
 
 ## Data Preprocessing
-- The python files for preprocessing and notebooks of the creating small dataset can be found in the following folder:
+- The python files for preprocessing and notebook of the creating small dataset can be found in the following folder:
 `NSVD-MPL-PRJ/0_preprocess_dialogs`
 - The dataset used in this project is called CLEVER Dialog, using this dataset we create our own dataset.
 
 
 ### Note.
  Since the volume of data is too big in this part we also created a smaller dataset from our preprocessed one, making the training and testing procedure faster.
- - Also it is important to mention that small dataset have 375000 data which takes too long to run in kaggle. Therefore, we sliced it to be 75000.
+ - Also it is important to mention that small test dataset have 375000 data which takes too long to run in kaggle. Therefore, we sliced it to be 75000.
 
 - The following you can find original and small dataset voulmes:
 
@@ -61,7 +61,7 @@ The goals of this project are as following:
 
     |  | Caption_train| Question_train| Question_test|
     |----------|----------|----------|----------| 
-    | Result   |75.80%   | 51.72%  | 11.%  | 
+    | Result   |75.80%   | 51.72%  | 11.91%  | 
 
 #### EXP2: This part includes creating the unified version that creates the caption and question programs in one generator.
 
