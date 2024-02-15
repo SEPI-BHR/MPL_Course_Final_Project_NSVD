@@ -168,10 +168,10 @@ python3 -m pip install -r requirements.txt --user
 - Enter `MPL_Course_Final_Project_NSVD/3_NSVD_comb_Encod-Arch/com-cap-tr-final.ipynb`
     - In `optionsC` you have to set the path parameters.
     - Save the .pkl file after training
-- Enter the `MPL_Course_Final_Project_NSVD/3_NSVD_comb_Encod-Arch/com-ques-test-final.ipynb`
+- Enter the `MPL_Course_Final_Project_NSVD/3_NSVD_comb_Encod-Arch/com-ques-tr-final.ipynb`
     - In `optionsQ` you have to set the path parameters.
     - Save the .pkl file after training
-- Enter the `MPL_Course_Final_Project_NSVD/3_NSVD_comb_Encod-Arch/com-ques-tr-final.ipynb`
+- Enter the `MPL_Course_Final_Project_NSVD/3_NSVD_comb_Encod-Arch/com-ques-test-final.ipynb`
     - Set the parametes especially networkPath parameters in `OptionC`
     - Set the parametes especially networkPath parameters in `OptionQ`
 
