@@ -49,9 +49,9 @@ The goals of this project are as following:
 
 ## Experiments
 #### In this projects we have done several experiments, and you can find the relavent notebooks in the following folders:
-- `NSVD-MPL-PRJ/1_original_NSVD` : EXp1
-- `NSVD-MPL-PRJ/2_NSVD-Unified-Encod-Arch` : EXP2
-- `NSVD-MPL-PRJ/3_NSVD_comb_Encod-Arch` :  : EXP3
+-  EXp1 :`NSVD-MPL-PRJ/1_original_NSVD`  
+-  EXP2 :`NSVD-MPL-PRJ/2_NSVD-Unified-Encod-Arch`  
+-  EXP3 :`NSVD-MPL-PRJ/3_NSVD_comb_Encod-Arch`  
 ------
 
 #### EXP1: This part includes making the baseline code run. 
