@@ -149,16 +149,16 @@ python3 -m pip install -r requirements.txt --user
     - In `optionsC` you have to set the path parameters.
     - Save the .pkl file after training
 - Enter the `NSVD-MPL-PRJ/1_original_NSVD/base-ques-tr-final.ipynb`
-    - In `optionsC` you have to set the path parameters.
+    - In `optionsQ` you have to set the path parameters.
     - Save the .pkl file after training
 - Enter the `NSVD-MPL-PRJ/1_original_NSVD/base-ques-test-final.ipynb`
-    - Set the parametes especially networkPath parameters in`
-        - Set the parametes especially networkPath parameters in `OptionQ`
+    - Set the parametes especially networkPath parameters in `OptionC`
+    - Set the parametes especially networkPath parameters in `OptionQ`
 
 -----
 ### Run EXP2
 - Enter `NSVD-MPL-PRJ/2_NSVD-Unified-Encod-Arch/unified-test-final.ipynb`
-    - In `optionsC` you have to set the path parameters.
+    - Set the parametes especially networkPath parameters in `optionsC` .
     - Set the parametes especially networkPath parameters in `OptionQ`
     - Save the .pkl file after training
 - Enter the `NSVD-MPL-PRJ/2_NSVD-Unified-Encod-Arch/unified-train-final-final.ipynb`
@@ -169,11 +169,11 @@ python3 -m pip install -r requirements.txt --user
     - In `optionsC` you have to set the path parameters.
     - Save the .pkl file after training
 - Enter the `NSVD-MPL-PRJ/3_NSVD_comb_Encod-Arch/com-ques-test-final.ipynb`
-    - In `optionsC` you have to set the path parameters.
+    - In `optionsQ` you have to set the path parameters.
     - Save the .pkl file after training
 - Enter the `NSVD-MPL-PRJ/3_NSVD_comb_Encod-Arch/com-ques-tr-final.ipynb`
-    - Set the parametes especially networkPath parameters in`
-        - Set the parametes especially networkPath parameters in `OptionQ`
+    - Set the parametes especially networkPath parameters in `OptionC`
+    - Set the parametes especially networkPath parameters in `OptionQ`
 
 
 
