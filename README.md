@@ -157,11 +157,11 @@ python3 -m pip install -r requirements.txt --user
 
 -----
 ### Run EXP2
-- Enter `NSVD-MPL-PRJ/2_NSVD-Unified-Encod-Arch/unified-test-final.ipynb`
+- Enter `NSVD-MPL-PRJ/2_NSVD-Unified-Encod-Arch/unified-train-final-final.ipynb`
     - Set the parametes especially networkPath parameters in `optionsC` .
     - Set the parametes especially networkPath parameters in `OptionQ`
     - Save the .pkl file after training
-- Enter the `NSVD-MPL-PRJ/2_NSVD-Unified-Encod-Arch/unified-train-final-final.ipynb`
+- Enter the `NSVD-MPL-PRJ/2_NSVD-Unified-Encod-Arch/unified-test-final.ipynb`
 -----
 ### Run EXP3
 
