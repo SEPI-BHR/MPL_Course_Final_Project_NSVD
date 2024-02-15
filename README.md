@@ -54,9 +54,9 @@ The goals of this project are as following:
 
 #### EXP1: This part includes making the baseline code run. 
 - There are three notebooks created for this part.
-    - Caption train: original architecture
-    - Question train: original architecture
-    - Question test: original architecture
+    - `base-cap-tr-final.ipynb`: original architecture
+    - `base-ques-tr-final.ipynb`: original architecture
+    - `base-ques-test-final-final.ipynb`: original architecture
 - You ca find the results for this experiment as following:
 
     |  | Caption_train| Question_train| Question_test|
@@ -66,8 +66,8 @@ The goals of this project are as following:
 #### EXP2: This part includes creating the unified version that creates the caption and question programs in one generator.
 
 - There are two notebooks i this part:
-    - Unified_train:same architecture as EXP1
-    - Unified_test :same architecture as EXP1
+    - `unified-train-final-final.ipynb`:same architecture as EXP1
+    - `unified-test-final .ipynb` :same architecture as EXP1
 
 - You ca find the results for this experiment as following:
  
@@ -78,9 +78,9 @@ The goals of this project are as following:
 
 #### EXP3: This part is extra part which implemented by us to investigate more improvement. Here we combined the encoders but the caption and question generator programs are running sparately.
 - There are three notebooks created for this part.
-    - Caption train: changed architecture
-    - Question train: changed architecture
-    - Question test: changed architecture
+    - `com-cap-tr-final.ipynb`: changed architecture
+    - `com-ques-tr-final.ipynb`: changed architecture
+    - `com-ques-test-final.ipynb`: changed architecture
 
 - You ca find the results for this experiment as following:
 
