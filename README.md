@@ -67,7 +67,7 @@ The goals of this project are as following:
 
 #### EXP2: This part includes creating the unified version that creates the caption and question programs in one generator.
 
-- There are two notebooks i this part:
+- There are two notebooks created for this part:
     - `unified-train-final-final.ipynb`:same architecture as EXP1
     - `unified-test-final .ipynb` :same architecture as EXP1
 
