@@ -49,9 +49,9 @@ The goals of this project are as following:
 
 ## Experiments
 #### In this projects we have done several experiments, and you can find the relavent notebooks in the following folders:
--  EXP1 :`NSVD-MPL-PRJ/1_original_NSVD`  
--  EXP2 :`NSVD-MPL-PRJ/2_NSVD-Unified-Encod-Arch`  
--  EXP3 :`NSVD-MPL-PRJ/3_NSVD_comb_Encod-Arch`  
+-  EXP1 :`MPL_Course_Final_Project_NSVD/1_original_NSVD`  
+-  EXP2 :`MPL_Course_Final_Project_NSVD/2_NSVD-Unified-Encod-Arch`  
+-  EXP3 :`MPL_Course_Final_Project_NSVD/3_NSVD_comb_Encod-Arch`  
 ------
 
 #### EXP1: This part includes making the baseline code run. 
@@ -145,19 +145,19 @@ python3 -m pip install -r requirements.txt --user
 ---
 ### Run EXP1
 
-- Enter `NSVD-MPL-PRJ/1_original_NSVD/base-cap-tr-final.ipynb`
+- Enter `MPL_Course_Final_Project_NSVD/1_original_NSVD/base-cap-tr-final.ipynb`
     - In `optionsC` you have to set the path parameters.
     - Save the .pkl file after training
-- Enter the `NSVD-MPL-PRJ/1_original_NSVD/base-ques-tr-final.ipynb`
+- Enter the `MPL_Course_Final_Project_NSVD/1_original_NSVD/base-ques-tr-final.ipynb`
     - In `optionsQ` you have to set the path parameters.
     - Save the .pkl file after training
-- Enter the `NSVD-MPL-PRJ/1_original_NSVD/base-ques-test-final.ipynb`
+- Enter the `MPL_Course_Final_Project_NSVD/1_original_NSVD/base-ques-test-final.ipynb`
     - Set the parametes especially networkPath parameters in `OptionC`
     - Set the parametes especially networkPath parameters in `OptionQ`
 
 -----
 ### Run EXP2
-- Enter `NSVD-MPL-PRJ/2_NSVD-Unified-Encod-Arch/unified-train-final-final.ipynb`
+- Enter `MPL_Course_Final_Project_NSVD/2_NSVD-Unified-Encod-Arch/unified-train-final-final.ipynb`
     - Set the parametes especially networkPath parameters in `optionsC` .
     - Set the parametes especially networkPath parameters in `OptionQ`
     - Save the .pkl file after training
@@ -165,13 +165,13 @@ python3 -m pip install -r requirements.txt --user
 -----
 ### Run EXP3
 
-- Enter `NSVD-MPL-PRJ/3_NSVD_comb_Encod-Arch/com-cap-tr-final.ipynb`
+- Enter `MPL_Course_Final_Project_NSVD/3_NSVD_comb_Encod-Arch/com-cap-tr-final.ipynb`
     - In `optionsC` you have to set the path parameters.
     - Save the .pkl file after training
-- Enter the `NSVD-MPL-PRJ/3_NSVD_comb_Encod-Arch/com-ques-test-final.ipynb`
+- Enter the `MPL_Course_Final_Project_NSVD/3_NSVD_comb_Encod-Arch/com-ques-test-final.ipynb`
     - In `optionsQ` you have to set the path parameters.
     - Save the .pkl file after training
-- Enter the `NSVD-MPL-PRJ/3_NSVD_comb_Encod-Arch/com-ques-tr-final.ipynb`
+- Enter the `MPL_Course_Final_Project_NSVD/3_NSVD_comb_Encod-Arch/com-ques-tr-final.ipynb`
     - Set the parametes especially networkPath parameters in `OptionC`
     - Set the parametes especially networkPath parameters in `OptionQ`
 
