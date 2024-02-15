@@ -88,7 +88,7 @@ The goals of this project are as following:
 
     |  | Caption_train| Question_train| Question_test|
     |----------|----------|----------|----------| 
-    | Result   |75.80%   | 51.72%  | 12.32%  | 
+    | Result   |75.80%   | 51.72%  | 12.16%  | 
 
 
 ## How to run the project
