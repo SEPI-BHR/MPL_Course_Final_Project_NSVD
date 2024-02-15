@@ -93,7 +93,7 @@ The goals of this project are as following:
 
 ## How to run the project
 ### Requirements:
-- You can run these notebooks in kaggle, which does not need to install anything, but keep in moind because of th GPU limitations you need to run with small dataset. 
+- You can run these notebooks in kaggle, which does not need to install anything, but keep in mind because of th GPU limitations you need to run with small dataset. 
 - For local run, if you have enough GPU, the required packages are mentioned in `requirement.txt`file    
 ```
 python3 -m pip install -r requirements.txt --user
