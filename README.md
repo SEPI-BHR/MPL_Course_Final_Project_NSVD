@@ -146,7 +146,7 @@ python3 -m pip install -r requirements.txt --user
 - Enter `NSVD-MPL-PRJ/1_original_NSVD/base-cap-tr-final.ipynb`
     - In `optionsC` you have to set the path parameters.
     - Save the .pkl file after training
-- Enter the `NSVD-MPL-PRJ/1_original_NSVD/base-cap-tr-final.ipynb`
+- Enter the `NSVD-MPL-PRJ/1_original_NSVD/base-ques-tr-final.ipynb`
     - In `optionsC` you have to set the path parameters.
     - Save the .pkl file after training
 - Enter the `NSVD-MPL-PRJ/1_original_NSVD/base-ques-test-final.ipynb`
