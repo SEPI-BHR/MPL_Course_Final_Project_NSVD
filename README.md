@@ -10,7 +10,7 @@ Course project of Machine Perception and Learning class, Winter 2023/24 at Unive
 
 ## Introduction
 
-The insparation for Visual dialog comes from the human-human communication,[NSVD paper](https://arxiv.org/abs/2208.10353)
+The insparation for Visual dialog comes from the human-human communication,[NSVD paper](https://aclanthology.org/2022.coling-1.17.pdf)
 . In human language, a few questions and several rounds of responses can be used to reason about a visual scene. One of the obstacles that models must overcome is creating a link between pronouns like "that" and "it" to the appropriate objects in the scene. Current models encounter different challenges namely,  insufficient training data, poor explainability, and generalization .  A dynamic knowledge base  as well as program generators are main aspects of Neuro-Symbolic Visual Dialog (NSVD) in order to tackling these issues.
 
 
